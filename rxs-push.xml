@@ -1,0 +1,13 @@
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v1">
+		<prescription link="/Zxlusersjly/rx-push-services" />
+		<prescription link="/greenify/rx-mipush" />
+		<prescription link="/greenify/rx-rong-push" />
+		<prescription link="/GreenifyUnofficalPrescription/rx-baidupush" />
+		<prescription link="/GreenifyUnofficalPrescription/rx-huaweipush" />
+		<prescription link="/GreenifyUnofficalPrescription/rx-jpush" />
+		<prescription link="/GreenifyUnofficalPrescription/rx-tpush" />
+		<prescription link="/oasisfeng/rx-toutiao-hypnosis" />
+		<prescription link="/liangyuteng0927/rx-alipush" />
+		<prescription link="/liangyuteng0927/rx-igexin" />
+		<prescription link="/wyapples/rx-umeng" />
+</prescriptions>
